@@ -1,6 +1,6 @@
 # Coding Interview University
 
-> My version of the [Coding Interview University] (https://github.com/jwasham/coding-interview-university). I have made quite a few modifications which includes both additions and subtractions.
+> My version of the [Coding Interview University](https://github.com/jwasham/coding-interview-university). I have made quite a few modifications which includes both additions and subtractions.
 >
 > That said, I have also left instructions so that I can reference them for myself as I am working. Sorry if this is confusing to anyone perusing.
 
