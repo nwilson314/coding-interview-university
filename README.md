@@ -454,6 +454,7 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
 
 
 ## Nate Additions
+> This is a list that I grew as I working on things and felt my knowledge needed to be improved in a particular area. This can be either articles to read, courses to take, or even some side projects.
 - ### Math
     - Linear Algebra
         - [ ] [MIT Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)
@@ -461,6 +462,11 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
         - TBA
     - Calculus
         - TBA
+- ### Python
+    - [ ] [Relative Imports](https://napuzba.com/a/import-error-relative-no-parent)
+        - Tried to reuse some of my already completed practice items (LL's in a Queue for instance) but was running into relative import issues
+- ### Side Projects
+    - [ ] [Hacker News Look alike](https://github.com/nwilson314/hnews)
 
 ## Data Structures
 
@@ -518,7 +524,7 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
         (for when you pass a pointer to a function that may change the address where that pointer points)
         This page is just to get a grasp on ptr to ptr. I don't recommend this list traversal style. Readability and maintainability suffer due to cleverness.
         - [Pointers to Pointers](https://www.eskimo.com/~scs/cclass/int/sx8.html)
-    - [ ] Implement in C
+    - [ ] Implement in C++
     - [ ] implement (I did with tail pointer & without):
         - [x] size() - returns number of data elements in list
         - [x] empty() - bool returns true if empty
@@ -540,7 +546,7 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
         - No need to implement
 
 - ### Stack
-    - [ ] [Stacks (video)](https://www.coursera.org/learn/data-structures/lecture/UdKzQ/stacks)
+    - [x] [Stacks (video)](https://www.coursera.org/learn/data-structures/lecture/UdKzQ/stacks)
     - [ ] [Using Stacks Last-In First-Out (video)](https://archive.org/details/0102WhatYouShouldKnow/05_01-usingStacksForLast-inFirst-out.mp4)
     - [ ] Will not implement. Implementing with array is trivial.
 
@@ -549,6 +555,7 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
     - [ ] [Queue (video)](https://www.coursera.org/lecture/data-structures/queues-EShpq)
     - [ ] [Circular buffer/FIFO](https://en.wikipedia.org/wiki/Circular_buffer)
     - [ ] [Priority Queues (video)](https://archive.org/details/0102WhatYouShouldKnow/05_04-priorityQueuesAndDeques.mp4)
+    - [ ] Implement in C++
     - [ ] Implement using linked-list, with tail pointer:
         - enqueue(value) - adds value at position at tail
         - dequeue() - returns value and removes least recently added element (front)
