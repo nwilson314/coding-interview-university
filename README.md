@@ -239,8 +239,8 @@ Here is an article I wrote about choosing a language for the interview: [Pick On
 You need to be very comfortable in the language and be knowledgeable.
 
 Read more about choices:
-- [ ] http://www.byte-by-byte.com/choose-the-right-language-for-your-coding-interview/
-- [ ] http://blog.codingforinterviews.com/best-programming-language-jobs/
+- [x] http://www.byte-by-byte.com/choose-the-right-language-for-your-coding-interview/
+- [x] http://blog.codingforinterviews.com/best-programming-language-jobs/
 
 [See language resources here](programming-language-resources.md)
 
@@ -434,7 +434,7 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
 - Nothing to implement
 - There are a lot of videos here. Just watch enough until you understand it. You can always come back and review.
 - If some of the lectures are too mathy, you can jump down to the bottom and watch the discrete mathematics videos to get the background knowledge.
-- [ ] [Harvard CS50 - Asymptotic Notation (video)](https://www.youtube.com/watch?v=iOq5kSKqeR4)
+- [x] [Harvard CS50 - Asymptotic Notation (video)](https://www.youtube.com/watch?v=iOq5kSKqeR4)
 - [ ] [Big O Notations (general quick tutorial) (video)](https://www.youtube.com/watch?v=V6mKVRU1evU)
 - [ ] [Big O Notation (and Omega and Theta) - best mathematical explanation (video)](https://www.youtube.com/watch?v=ei-A_wy5Yxw&index=2&list=PL1BaGV1cIH4UhkL8a9bJGG356covJ76qN)
 - [ ] Skiena:
@@ -463,10 +463,26 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
     - Calculus
         - TBA
 - ### Python
-    - [ ] [Relative Imports](https://napuzba.com/a/import-error-relative-no-parent)
+    - [x] [Relative Imports](https://napuzba.com/a/import-error-relative-no-parent)
+    - [x] [More relative imports](https://chrisyeh96.github.io/2017/08/08/definitive-guide-python-imports.html)
         - Tried to reuse some of my already completed practice items (LL's in a Queue for instance) but was running into relative import issues
 - ### Side Projects
     - [ ] [Hacker News Look alike](https://github.com/nwilson314/hnews)
+- ### Leetcode
+    - [ ] 25 Array/string problems
+        - 0 (counter)
+    - [ ] 25 LinkedList problems
+        - 1 (counter)
+    - [ ] 15 Hash Table problems
+        - 0 (counter)
+    - [ ] 15 Tree problems
+        - 0 (counter)
+    - [ ] 15 Graph problems
+        - 0 (counter)
+    - [ ] 15 Divide and conquer problems
+        - 0
+    - [ ] 15 DP problems
+        - 0 (counter)
 
 ## Data Structures
 
@@ -552,11 +568,11 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
 
 - ### Queue
     - [ ] [Using Queues First-In First-Out(video)](https://archive.org/details/0102WhatYouShouldKnow/05_03-usingQueuesForFirst-inFirst-out.mp4)
-    - [ ] [Queue (video)](https://www.coursera.org/lecture/data-structures/queues-EShpq)
+    - [x] [Queue (video)](https://www.coursera.org/lecture/data-structures/queues-EShpq)
     - [ ] [Circular buffer/FIFO](https://en.wikipedia.org/wiki/Circular_buffer)
     - [ ] [Priority Queues (video)](https://archive.org/details/0102WhatYouShouldKnow/05_04-priorityQueuesAndDeques.mp4)
     - [ ] Implement in C++
-    - [ ] Implement using linked-list, with tail pointer:
+    - [x] Implement using linked-list, with tail pointer:
         - enqueue(value) - adds value at position at tail
         - dequeue() - returns value and removes least recently added element (front)
         - empty()
