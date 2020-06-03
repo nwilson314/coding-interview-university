@@ -325,9 +325,9 @@ through my notes and making flashcards so I could review.
 
 Read please so you won't make my mistakes:
 
-- [ ] [Retaining Computer Science Knowledge](https://startupnextdoor.com/retaining-computer-science-knowledge/).
+- [x] [Retaining Computer Science Knowledge](https://startupnextdoor.com/retaining-computer-science-knowledge/).
 
-- [ ] A course recommended to me (haven't taken it): [Learning how to Learn](https://www.udemy.com/course/learning-to-learn-efficient-learning-zero-to-mastery/)
+- [ ] [Learning how to Learn](https://www.udemy.com/course/learning-to-learn-efficient-learning-zero-to-mastery/)
 
 ### 2. Use Flashcards
 
@@ -467,22 +467,22 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
     - [x] [More relative imports](https://chrisyeh96.github.io/2017/08/08/definitive-guide-python-imports.html)
         - Tried to reuse some of my already completed practice items (LL's in a Queue for instance) but was running into relative import issues
 - ### Side Projects
-    - [ ] [Hacker News Look alike](https://github.com/nwilson314/hnews)
+    - [ ] [Hacker News Redux](https://github.com/nwilson314/hnews)
 - ### Leetcode
     - [ ] 25 Array/string problems
         - 1 (counter)
     - [ ] 25 LinkedList problems
-        - 2 (counter)
+        - 2 
     - [ ] 15 Hash Table problems
-        - 1 (counter)
+        - 1 
     - [ ] 15 Tree problems
-        - 0 (counter)
+        - 0 
     - [ ] 15 Graph problems
-        - 0 (counter)
+        - 0 
     - [ ] 15 Divide and conquer problems
         - 0
     - [ ] 15 DP problems
-        - 0 (counter)
+        - 0 
 
 ## Data Structures
 
@@ -497,7 +497,7 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
         - [ ] [Jagged Arrays (video)](https://www.youtube.com/watch?v=1jtrQqYpt7g)
         - [ ] [Jagged Arrays (video)](https://archive.org/details/0102WhatYouShouldKnow/02_06-jaggedArrays.mp4)
         - [ ] [Resizing arrays (video)](https://archive.org/details/0102WhatYouShouldKnow/03_01-resizableArrays.mp4)
-    - [ ] Implement in C
+    - [ ] Implement in C++
     - [ ] Implement a vector (mutable array with automatic resizing):
         - [ ] Practice coding using arrays and pointers, and pointer math to jump to an index instead of using indexing.
         - [x] new raw data array with allocated memory
@@ -591,7 +591,7 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
 - ### Hash table
     - [ ] Videos:
         - [x] [Hashing with Chaining (video)](https://www.youtube.com/watch?v=0M_kIqhwbFo&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&index=8)
-        - [ ] [Table Doubling, Karp-Rabin (video)](https://www.youtube.com/watch?v=BRO7mVIFt08&index=9&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb)
+        - [x] [Table Doubling, Karp-Rabin (video)](https://www.youtube.com/watch?v=BRO7mVIFt08&index=9&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb)
         - [ ] [Open Addressing, Cryptographic Hashing (video)](https://www.youtube.com/watch?v=rvdJDijO2Ro&index=10&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb)
         - [ ] [PyCon 2010: The Mighty Dictionary (video)](https://www.youtube.com/watch?v=C4Kc8xzcA68)
         - [ ] [(Advanced) Randomization: Universal & Perfect Hashing (video)](https://www.youtube.com/watch?v=z0lJ2k0sl1g&list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp&index=11)
