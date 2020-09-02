@@ -470,25 +470,33 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
 - ### Side Projects
     - [ ] [Hacker News Redux](https://github.com/nwilson314/hnews)
 - ### Leetcode
-    - [ ] 25 Array/string problems
-        - 3 (counter)
+    - [ ] 25 Array
+        - 1
+    - [ ] 25 String Manipulation
+        - 1
     - [ ] 25 LinkedList problems
-        - 2 
+        - 0
     - [ ] 15 Hash Table problems
-        - 2
+        - 0
     - [ ] 15 Tree problems
-        - 2 
+        - 1
     - [ ] 15 Graph problems
         - 0 
     - [ ] 15 Divide and conquer problems
-        - 1
+        - 0
     - [ ] 15 DP problems
         - 0 
     - [ ] Math problems
-        - 0
-    - [ ] Bit Manipulation
         - 1
-
+    - [ ] Bit Manipulation
+        - 0
+    - [ ] Easy
+        - 3
+    - [ ] Medium
+        - 1
+    - [ ] Hard
+        - 0
+ 
 ## Data Structures
 
 - ### Arrays
@@ -711,13 +719,13 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
         - [x] get_min   // returns the minimum value stored in the tree
         - [x] get_max   // returns the maximum value stored in the tree
         - [ ] is_binary_search_tree
-        - [ ] delete_value
+        - [x] delete_value
         - [ ] get_successor // returns next-highest value in tree after given value, -1 if none
 
 - ### Heap / Priority Queue / Binary Heap
     - visualized as a tree, but is usually linear in storage (array, linked list)
     - [ ] [Heap](https://en.wikipedia.org/wiki/Heap_(data_structure))
-    - [ ] [Introduction (video)](https://www.coursera.org/learn/data-structures/lecture/2OpTs/introduction)
+    - [x] [Introduction (video)](https://www.coursera.org/learn/data-structures/lecture/2OpTs/introduction)
     - [ ] [Naive Implementations (video)](https://www.coursera.org/learn/data-structures/lecture/z3l9N/naive-implementations)
     - [ ] [Binary Trees (video)](https://www.coursera.org/learn/data-structures/lecture/GRV2q/binary-trees)
     - [ ] [Tree Height Remark (video)](https://www.coursera.org/learn/data-structures/supplement/S5xxz/tree-height-remark)
