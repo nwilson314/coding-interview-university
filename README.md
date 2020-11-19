@@ -471,31 +471,31 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
     - [ ] [Hacker News Redux](https://github.com/nwilson314/hnews)
 - ### Leetcode
     - [ ] 25 Array
-        - 1
+        - 7
     - [ ] 25 String Manipulation
+        - 5
+    - [ ] 25 LinkedList
         - 1
-    - [ ] 25 LinkedList problems
-        - 0
-    - [ ] 15 Hash Table problems
-        - 0
+    - [ ] 15 Hash Table
+        - 1
     - [ ] 15 Tree problems
-        - 1
+        - 6
     - [ ] 15 Graph problems
-        - 0 
-    - [ ] 15 Divide and conquer problems
+        - 3
+    - [ ] 15 Divide and conquer 
         - 0
     - [ ] 15 DP problems
-        - 0 
+        - 2
     - [ ] Math problems
         - 1
     - [ ] Bit Manipulation
         - 0
     - [ ] Easy
-        - 3
+        - 12
     - [ ] Medium
-        - 1
+        - 13
     - [ ] Hard
-        - 0
+        - 1
  
 ## Data Structures
 
