@@ -481,11 +481,11 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
     - [ ] 15 Tree problems
         - 6
     - [ ] 15 Graph problems
-        - 3
+        - 4
     - [ ] 15 Divide and conquer 
         - 0
     - [ ] 15 DP problems
-        - 2
+        - 3
     - [ ] Math problems
         - 1
     - [ ] Bit Manipulation
@@ -493,7 +493,7 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
     - [ ] Easy
         - 12
     - [ ] Medium
-        - 13
+        - 15
     - [ ] Hard
         - 1
  
@@ -843,7 +843,7 @@ Graphs can be used to represent many problems in computer science, so this secti
 
 - [ ] MIT(videos):
     - [ ] [Breadth-First Search](https://www.youtube.com/watch?v=s-CYnVz-uh4&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&index=13)
-    - [ ] [Depth-First Search](https://www.youtube.com/watch?v=AfSk24UTFS8&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&index=14)
+    - [x] [Depth-First Search](https://www.youtube.com/watch?v=AfSk24UTFS8&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&index=14)
 
 - [ ] Skiena Lectures - great intro:
     - [ ] [CSE373 2012 - Lecture 11 - Graph Data Structures (video)](https://www.youtube.com/watch?v=OiXxhDrFruw&list=PLOtl7M3yp-DV69F32zdK7YJcNXpTunF2b&index=11)
